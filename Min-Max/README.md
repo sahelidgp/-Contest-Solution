@@ -11,8 +11,6 @@ int main() {
     cin >> tc;
 
     while (tc--) {
-        +
-        
         
         int n, q;
         cin >> n >> q;
